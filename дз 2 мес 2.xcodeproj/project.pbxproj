@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		9FE09ED2298FE91E00BC9B80 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE09ED1298FE91E00BC9B80 /* main.swift */; };
+		9FE09ED9298FE97600BC9B80 /* Zoo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE09ED8298FE97600BC9B80 /* Zoo.swift */; };
+		9FE09EDB298FEA9B00BC9B80 /* animals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE09EDA298FEA9B00BC9B80 /* animals.swift */; };
+		9FE09EDD298FEAA800BC9B80 /* birds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE09EDC298FEAA800BC9B80 /* birds.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		9FE09ECE298FE91E00BC9B80 /* дз 2 мес 2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "дз 2 мес 2"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FE09ED1298FE91E00BC9B80 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9FE09ED8298FE97600BC9B80 /* Zoo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zoo.swift; sourceTree = "<group>"; };
+		9FE09EDA298FEA9B00BC9B80 /* animals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animals.swift; sourceTree = "<group>"; };
+		9FE09EDC298FEAA800BC9B80 /* birds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = birds.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				9FE09ED1298FE91E00BC9B80 /* main.swift */,
+				9FE09ED8298FE97600BC9B80 /* Zoo.swift */,
+				9FE09EDA298FEA9B00BC9B80 /* animals.swift */,
+				9FE09EDC298FEAA800BC9B80 /* birds.swift */,
 			);
 			path = "дз 2 мес 2";
 			sourceTree = "<group>";
@@ -120,7 +129,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FE09ED9298FE97600BC9B80 /* Zoo.swift in Sources */,
 				9FE09ED2298FE91E00BC9B80 /* main.swift in Sources */,
+				9FE09EDD298FEAA800BC9B80 /* birds.swift in Sources */,
+				9FE09EDB298FEA9B00BC9B80 /* animals.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
